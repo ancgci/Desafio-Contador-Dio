@@ -1,18 +1,18 @@
-## Getting Started
+# Tratamento de Exceção
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto didático para entrega de desafio "contador" com tutoria [Gleyson Sampaio](https://www.linkedin.com/in/glysns/) durante o bootCamp Santander [DIO FullStack](https://www.dio.me/). Obs:ia
 
-## Folder Structure
+## Imagens
 
-The workspace contains two folders by default, where:
+![1](https://github.com/ancgci/Desafio-Contador-Dio/blob/main/imagens/1.png)
+![2](https://github.com/ancgci/Desafio-Contador-Dio/blob/main/imagens/2.png)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Material de Apoio
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- [Informações sobre java](https://glysns.gitbook.io/java-basico)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- [Trilha java basico DIO](https://github.com/digitalinnovationone/trilha-java-basico)
 
-## Dependency Management
+## Licença
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Este projeto é distribuído sob a licença MIT.
